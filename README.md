@@ -15,7 +15,7 @@ La documentation l'API [ici](/public/docs/API-Documentation.pdf)
 
 ### Installation
 
-- Cloner ou télécharger [repository](https://gitlab.com/agbere/test-tikerama-api).
+- Cloner ou télécharger [repository](https://github.com/icoder2406/test-tikerama-api).
 
 - Aller dans le repertoire du projet et executer la commande **composer install** pour installer les dépendances.
 
