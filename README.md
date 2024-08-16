@@ -11,8 +11,7 @@ Avant de commencer, assurez-vous d'avoir les outils suivants installés sur votr
 
 - Git (pour cloner le dépôt)
 
-La documentation l'API [ici](/public/docs/API-Documentation.pdf)
-
+Documentation locale de l'API [ici](/public/docs/API-Documentation.pdf)
 ### Installation
 
 - Cloner ou télécharger [repository](https://github.com/icoder2406/test-tikerama-api).

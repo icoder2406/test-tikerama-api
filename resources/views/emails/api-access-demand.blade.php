@@ -8,9 +8,9 @@ Pour tout autre besoin, contacter nous.
 <br><br>
 
 <br>
-{{-- <x-mail::button :url="''">
-Button Text
-</x-mail::button> --}}
+<x-mail::button :url="'https://github.com/icoder2406/test-tikerama-api/blob/main/public/docs/API-Documentation.pdf'">
+Télécharger la documentation ici
+</x-mail::button>
 
 Merci,<br>
 {{ config('app.name') }}
